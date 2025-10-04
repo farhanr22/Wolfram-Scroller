@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Final executable
+wscroller
+wscroller.exe
+
+# Exported PNGs (excluding font source/screenshot)
+*.png
+!font/font.png
+!screenshot.png
